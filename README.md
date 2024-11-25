@@ -36,7 +36,7 @@
  ### TROPHIES
  
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=kauaog13&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+![trophy](https://github-profile-trophy.vercel.app/?username=kauaog13&theme=onedark)
 
  <p align="center"> 
   Visitors count<br>
