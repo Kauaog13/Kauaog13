@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently studying on SENAC
 - 🌱 I’m learning HTML, CSS and Java Script
-- 🧑🏿‍💻 Ask me about Web Development
+- 🧑🏿‍💻 Studying Web Development
 
 <h3>Contact</h3>
 
