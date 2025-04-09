@@ -15,8 +15,6 @@
     <a href="https://www.instagram.com/oliveira_srg.13/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
 
-![Snake animation](https://github.com/Kauaog13/Kauaog13/blob/output/github-contribution-grid-snake.svg)
-
 <h3>Languages</h3>
 
 <div style="display": inline_block><br/>
