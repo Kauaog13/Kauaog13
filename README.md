@@ -16,7 +16,6 @@
 </div>
 
 ![snake gif](https://github.com/kauaog13/kauaog13/blob/output/github-contribution-grid-snake.svg)
-![Snake animation](https://github.com/Kauaog13/Kauaog13/blob/output/github-contribution-grid-snake.svg)
 
 <h3>Languages</h3>
 
