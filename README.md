@@ -15,7 +15,7 @@
     <a href="https://www.instagram.com/oliveira_srg.13/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
 
-<h3>Languages & Technology</h3>
+<h3>Languages & Technologys</h3>
 
 <div style="display": inline_block><br/>
     <img alig="center" alt = "html5"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height=60px/>
