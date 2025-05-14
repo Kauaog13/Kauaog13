@@ -26,6 +26,7 @@
     <img alig="center" alt = "bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" height=60px />
     <img alig="center" alt = "photoshop" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" height=60px />
     <img alig="center" alt = "canva" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" height=60px />
+    <img alig="center" alt = "vscode" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height=60px />
 </div>
 <br>
 
