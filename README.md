@@ -33,8 +33,6 @@
 [![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=kauaog13&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)](#)
  
 [![Kauã github stats](https://bad-apple-github-readme.vercel.app/api?username=kauaog13&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff)](#)
- 
-[![Kauã current streak](https://streak-stats.demolab.com/?user=kauaog13&count_private=true&theme=blue-green&title_color=00b3ff)](#)
 
 ![GitHub followers](https://img.shields.io/github/followers/kauaog13?label=Seguidores&style=social)
 
