@@ -33,17 +33,16 @@
 </div>
 <br>
 
-[![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=kauaog13&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)](#)
- 
-[![Kauã github stats](https://bad-apple-github-readme.vercel.app/api?username=kauaog13&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff)](#)
+### STATS
 
-![GitHub followers](https://img.shields.io/github/followers/kauaog13?label=Seguidores&style=social)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kauaog13&layout=compact&theme=tokyonight)
 
- ### TROPHIES
+![Kauaog13 GitHub stats](https://github-readme-stats.vercel.app/api?username=Kauaog13&show_icons=true&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Kauaog13&theme=tokyonight&hide_border=true)
+
+![GitHub followers](https://img.shields.io/github/followers/kauaog13?label=Seguidores&style=social) <img src="https://komarev.com/ghpvc/?username=Kauaog13&label=Visitors&color=0e75b6&style=flat" alt="contador de visitantes"/>
+
+### TROPHIES
  
 ![trophy](https://github-profile-trophy.vercel.app/?username=kauaog13&theme=onedark)
-
- <p align="center"> 
-  Visitors count<br>
-  <img src="https://profile-counter.glitch.me/kauaog13/count.svg" />
- </p>
