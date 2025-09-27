@@ -15,6 +15,8 @@
     <a href="https://www.instagram.com/oliveirab.13/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
 
+---
+
 <h3>Languages, Technologys & Stacks</h3>
 
 <div style="display": inline_block><br/>
@@ -31,15 +33,17 @@
 </div>
 <br>
 
-### STATS
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kauaog13&layout=compact&theme=tokyonight)
 
-![Kauaog13 GitHub stats](https://github-readme-stats.vercel.app/api?username=Kauaog13&show_icons=true&theme=tokyonight)
+---
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Kauaog13&theme=tokyonight&hide_border=true)
+### STATS
+
+![Kauaog13 GitHub stats](https://github-readme-stats.vercel.app/api?username=Kauaog13&show_icons=true&theme=tokyonight) 
 
 ![GitHub followers](https://img.shields.io/github/followers/kauaog13?label=Seguidores&style=social) <img src="https://komarev.com/ghpvc/?username=Kauaog13&label=Visitors&color=0e75b6&style=flat" alt="contador de visitantes"/>
+
+---
 
 ### TROPHIES
  
