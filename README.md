@@ -2,7 +2,7 @@
 ### Acquiring skills 💤
 
 🎓 Student of Systems Analysis and Development  
-💼 Digital business owner -> [Pratas da Máfia](https://www.pratasdamafia.com.br)  
+💼 Digital business owner -> [Pratas da Máfia]([https://www.pratasdamafia.com.br](https://github.com/Pratas-da-Mafia))  
 💻 Passionate about technology, business, and innovation  
 🚀 Currently looking for my first internship opportunity in tech  
 🌱 Ready to learn, grow, and contribute to real-world projects
