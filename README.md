@@ -1,4 +1,7 @@
 # Hi, Kauã Oliveira here 🧊
+
+---
+
 ### Acquiring skills 💤
 
 🎓 Student of Systems Analysis and Development  
@@ -9,11 +12,12 @@
 
 <h3>Contact</h3>
 
-<div> 
-  <a href="https://www.linkedin.com/in/kau%C3%A3-oliveira-7a099b270/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-    <a href = "mailto:kauaogsenac@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-    <a href="https://www.instagram.com/oliveirab.13/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-</div>
+<div>
+  <p align="left">
+  <a href="https://oliveirak.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐 Acessar%20Portfólio-oliveirak.vercel.app-0A66C2?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio de Kauã Oliveira" />
+  </a>
+</p>  
 
 ---
 
