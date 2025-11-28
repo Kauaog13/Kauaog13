@@ -17,7 +17,8 @@
   <a href="https://oliveirak.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/🌐 Acessar%20Portfólio-oliveirak.vercel.app-0A66C2?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio de Kauã Oliveira" />
   </a>
-</p>  
+</p>
+Ainda em construção...
 
 ---
 
