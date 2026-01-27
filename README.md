@@ -1,4 +1,4 @@
-# Hi, Kauã Oliveira here 🧊
+<img width="1584" height="396" alt="Profile LinkedIn Banner" src="https://github.com/user-attachments/assets/1f035df2-e6a0-4d35-b8f5-1246e9df18ac" />
 
 ---
 
