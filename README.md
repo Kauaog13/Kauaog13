@@ -18,7 +18,8 @@
     <img src="https://img.shields.io/badge/🌐 Acessar%20Portfólio-oliveirak.vercel.app-0A66C2?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio de Kauã Oliveira" />
   </a>
 </p>
-Ainda em construção...
+
+> Ainda em construção...
 
 ---
 
@@ -46,14 +47,12 @@ Ainda em construção...
 </div>
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kauaog13&layout=compact&theme=tokyonight)
-
 ---
 
 ### STATS
 
-![Kauaog13 GitHub stats](https://github-readme-stats.vercel.app/api?username=Kauaog13&show_icons=true&theme=tokyonight) 
-
 ![GitHub followers](https://img.shields.io/github/followers/kauaog13?label=Seguidores&style=social) <img src="https://komarev.com/ghpvc/?username=Kauaog13&label=Visitors&color=0e75b6&style=flat" alt="contador de visitantes"/>
 
----
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kauaog13&layout=compact&theme=tokyonight)
+
+![Kauaog13 GitHub stats](https://github-readme-stats.vercel.app/api?username=Kauaog13&show_icons=true&theme=tokyonight) 
