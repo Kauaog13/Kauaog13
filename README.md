@@ -41,6 +41,8 @@ Ainda em construção...
     <img alig="center" alt="androidstudio"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="60"/>
     <img alig="center" alt="git"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60"/>
     <img alig="center" alt="github"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="60"/>
+    <img alig="center" alt="netlify"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg" height="60"/>
+    <img alig="center" alt="vercel"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" height="60"/>
 </div>
 <br>
 
