@@ -19,8 +19,6 @@
   </a>
 </p>
 
-> Ainda em construção...
-
 ---
 
 <h3>Languages, Technologys & Stacks</h3>
