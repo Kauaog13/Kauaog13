@@ -50,7 +50,3 @@
 ### STATS
 
 ![GitHub followers](https://img.shields.io/github/followers/kauaog13?label=Seguidores&style=social) <img src="https://komarev.com/ghpvc/?username=Kauaog13&label=Visitors&color=0e75b6&style=flat" alt="contador de visitantes"/>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kauaog13&layout=compact&theme=tokyonight)
-
-![Kauaog13 GitHub stats](https://github-readme-stats.vercel.app/api?username=Kauaog13&show_icons=true&theme=tokyonight) 
