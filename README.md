@@ -14,14 +14,24 @@
 
 <div>
   <p align="left">
-  <a href="https://oliveirak.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐 Acessar%20Portfólio-oliveirak.vercel.app-0A66C2?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio de Kauã Oliveira" />
+ <a href="https://oliveirak.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Acessar_Portfólio-0A66C2?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio de Kauã Oliveira" />
   </a>
+  <a href="mailto:kauaog13@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail do Kauã Oliveira" />
+  </a>
+  <a href="https://www.linkedin.com/in/kau%C3%A3-oliveira-7a099b270/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn do Kauã Oliveira" />
+  </a>
+  
 </p>
+</div>
 
 ---
 
 <h3>Languages, Technologys & Stacks</h3>
+
+
 
 <h4>Frontend</h4>
     <img alig="center" alt = "html5"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height=60px/>
