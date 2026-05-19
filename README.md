@@ -23,26 +23,30 @@
 
 <h3>Languages, Technologys & Stacks</h3>
 
-<div style="display": inline_block><br/>
+<h4>Frontend</h4>
     <img alig="center" alt = "html5"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height=60px/>
     <img alig="center" alt = "css" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height=60px />
     <img alig="center" alt = "javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height=60px />
-    <img alig="center" alt = "typescript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height=60px />
     <img alig="center" alt = "react" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height=60px />
     <img alig="center" alt = "nextjs" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" height=60px />
+    <br>
+<h4>Backend</h4>
     <img alig="center" alt = "nodejs" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" height=60px />
+    <img alig="center" alt = "typescript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height=60px />
     <img alig="center" alt = "python" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height=60px />
     <img alig="center" alt = "java" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height=60px />
     <img alig="center" alt = "php" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" height=60px />
+    <br>
+ <h4>Database</h4>   
     <img alig="center" alt = "supabase" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" height=60px />
     <img alig="center" alt = "mysql" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height=60px />
     <img alig="center" alt = "postgresql" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height=60px />
+    <br>
+  <h4>Techs</h4>
     <img alig="center" alt="androidstudio"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="60"/>
     <img alig="center" alt="git"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60"/>
-    <img alig="center" alt="github"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="60"/>
     <img alig="center" alt="netlify"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg" height="60"/>
     <img alig="center" alt="vercel"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" height="60"/>
-</div>
 <br>
 
 ---
