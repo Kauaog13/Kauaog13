@@ -7,7 +7,7 @@
 🎓 Estudante de Análise e Desenvolvimento de Sistemas  
 💼 CEO em um negócio digital -> [Pratas da Máfia](https://github.com/Pratas-da-Mafia)  
 💻 Apaixonado por tecnologia, negócios e inovação  
-🚀 Atualmente em busca da minha primeira oportunidade na área da tecnologia da Informação  
+🚀 Atualmente Trabalho como Auxiliar Administrativo na empresa Nexus Ultrassonografia, porém sigo em busca da minha primeira oportunidade na área da tecnologia da Informação  
 🌱 Pronto para aprender, crescer e contribuir em projetos reais  
 
 
