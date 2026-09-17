@@ -6,7 +6,7 @@
 
 🎓 Formado em Análise e Desenvolvimento de Sistemas  
 💼 CEO em um negócio digital -> [Pratas da Máfia](https://github.com/Pratas-da-Mafia)  
-📱 Instagram Profissional, Conteúdos e Serviços -> [Ktech.dev](https://instagram.com/@ktech.dev)
+📱 Instagram Profissional, Conteúdos e Serviços -> [Ktech.dev](https://instagram.com/@ktech.dev)  
 💻 Apaixonado por tecnologia, negócios e inovação  
 🚀 Atualmente Trabalho como Auxiliar Administrativo na empresa Nexus Ultrassonografia, porém sigo em busca da minha primeira oportunidade na área da tecnologia da Informação  
 🌱 Pronto para aprender, crescer e contribuir em projetos reais  
